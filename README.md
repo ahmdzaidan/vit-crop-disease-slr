@@ -18,7 +18,7 @@ This repository contains the supplementary materials accompanying the systematic
 |---|---|
 | `data_extraction.csv` | Full data extraction sheet for all 259 included studies (author/year, ViT architecture, DL model(s) used, dataset(s), country/region, challenges and research gaps) |
 | `prisma_checklist.pdf` | Completed PRISMA 2020 checklist |
-| `figures/fig4_ml_dl_categories.png` | Full-resolution figure: Distribution of ML/DL umbrella categories used alongside ViTs (referenced but not reproduced in full in the manuscript due to page limits) |
+| `figures/Figure S1_ml_dl_categories.png` | Full-resolution figure: Distribution of ML/DL umbrella categories used alongside ViTs (referenced but not reproduced in full in the manuscript due to page limits) |
 | `figures/fig3_vit_architecture_full.png` | Full-resolution, unabridged breakdown of all Vision Transformer architecture variants identified during data extraction (Fig. 3 in the manuscript shows the harmonized/grouped version) |
 
 ## Data Extraction Fields
